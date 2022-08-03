@@ -19,4 +19,6 @@ jobs:
     # You may pin to the exact commit or the version.
     # uses: unsignedapps/swift-create-xcframework@ff7327b222d038fec947667eb8999a420a3efcdc
       uses: unsignedapps/swift-create-xcframework@v2.2.0
+      with:
+        plateforms: ios
       
